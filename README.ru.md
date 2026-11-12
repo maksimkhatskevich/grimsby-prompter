@@ -23,6 +23,7 @@
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest"><img src="https://img.shields.io/github/v/release/maksimkhatskevich/grimsby-prompter?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&color=D9822B" alt="Version"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-D9822B" alt="Windows 10/11">
   <img src="https://img.shields.io/badge/%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE-%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B-111314" alt="Free">
+  <a href="https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19"><img src="https://img.shields.io/badge/VirusTotal-0%2F67-2E7D32" alt="VirusTotal 0/67"></a>
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases"><img src="https://img.shields.io/github/downloads/maksimkhatskevich/grimsby-prompter/total?label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9&color=858A8D" alt="Downloads"></a>
 </p>
 
@@ -88,6 +89,7 @@
 
 1. Откройте страницу **[последней версии](https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest)** и скачайте установщик `.exe`.
 2. Запустите его. Windows может показать синее окно «Система Windows защитила ваш компьютер» — это обычное предупреждение для программ без платного сертификата подписи. Нажмите **Подробнее → Выполнить в любом случае**.
+   Установщик проверен на VirusTotal: [ни один из 67 антивирусов ничего не нашёл](https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19) (версия 1.0.0).
 3. Нажмите **«Новый текст»** или перетащите файл в окно.
 
 **Требования:** Windows 10 или 11 (64 бит). Микрофон нужен только для следования за голосом. Интернет нужен только чтобы скачать модель голоса и проверить обновления.

@@ -23,6 +23,7 @@
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest"><img src="https://img.shields.io/github/v/release/maksimkhatskevich/grimsby-prompter?label=%EB%B2%84%EC%A0%84&color=D9822B" alt="Version"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-D9822B" alt="Windows 10/11">
   <img src="https://img.shields.io/badge/%EB%AC%B4%EB%A3%8C-%EA%B4%91%EA%B3%A0%20%EC%97%86%EC%9D%8C-111314" alt="Free">
+  <a href="https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19"><img src="https://img.shields.io/badge/VirusTotal-0%2F67-2E7D32" alt="VirusTotal 0/67"></a>
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases"><img src="https://img.shields.io/github/downloads/maksimkhatskevich/grimsby-prompter/total?label=%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C&color=858A8D" alt="Downloads"></a>
 </p>
 
@@ -88,6 +89,7 @@
 
 1. **[최신 버전](https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest)** 페이지를 열고 설치 프로그램 `.exe`를 다운로드하세요.
 2. 실행하세요. Windows가 파란색 "Windows의 PC 보호" 창을 띄울 수 있는데, 유료 코드 서명 인증서가 없는 프로그램에 대한 일반적인 경고입니다. **추가 정보 → 실행**을 누르세요.
+   설치 프로그램은 VirusTotal에서 검사했습니다: [백신 엔진 67개 모두 이상 없음](https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19) (버전 1.0.0).
 3. **새 텍스트** 를 누르거나 파일을 창에 끌어다 놓으세요.
 
 **요구 사항:** Windows 10 또는 11(64비트). 마이크는 음성 따라가기에만 필요합니다. 인터넷은 음성 모델을 내려받고 업데이트를 확인할 때만 필요합니다.

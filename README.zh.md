@@ -23,6 +23,7 @@
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest"><img src="https://img.shields.io/github/v/release/maksimkhatskevich/grimsby-prompter?label=%E7%89%88%E6%9C%AC&color=D9822B" alt="Version"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-D9822B" alt="Windows 10/11">
   <img src="https://img.shields.io/badge/%E5%85%8D%E8%B4%B9-%E6%97%A0%E5%B9%BF%E5%91%8A-111314" alt="Free">
+  <a href="https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19"><img src="https://img.shields.io/badge/VirusTotal-0%2F67-2E7D32" alt="VirusTotal 0/67"></a>
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases"><img src="https://img.shields.io/github/downloads/maksimkhatskevich/grimsby-prompter/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F&color=858A8D" alt="Downloads"></a>
 </p>
 
@@ -88,6 +89,7 @@
 
 1. 打开 **[最新版本](https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest)** 页面，下载安装程序 `.exe`。
 2. 运行它。Windows 可能会显示蓝色的“Windows 已保护你的电脑”窗口——这是没有付费代码签名证书的程序的正常提示。点击 **更多信息 → 仍要运行**。
+   安装程序已在 VirusTotal 上检测：[67 款杀毒引擎均未发现问题](https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19)（1.0.0 版）。
 3. 点击 **新文本**，或把文件拖进窗口。
 
 **系统要求：** Windows 10 或 11（64 位）。

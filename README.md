@@ -23,6 +23,7 @@
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest"><img src="https://img.shields.io/github/v/release/maksimkhatskevich/grimsby-prompter?label=version&color=D9822B" alt="Version"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-D9822B" alt="Windows 10/11">
   <img src="https://img.shields.io/badge/free-no%20ads-111314" alt="Free">
+  <a href="https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19"><img src="https://img.shields.io/badge/VirusTotal-0%2F67-2E7D32" alt="VirusTotal 0/67"></a>
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases"><img src="https://img.shields.io/github/downloads/maksimkhatskevich/grimsby-prompter/total?label=downloads&color=858A8D" alt="Downloads"></a>
 </p>
 
@@ -88,6 +89,7 @@ The light theme is one click away — the sun button at the top.
 
 1. Open the **[latest release](https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest)** page and download the installer `.exe`.
 2. Run it. Windows may show a blue "Windows protected your PC" window — that's a normal warning for apps without a paid code-signing certificate. Click **More info → Run anyway**.
+   The installer has been checked on VirusTotal: [0 of 67 antivirus engines flag it](https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19) (version 1.0.0).
 3. Click **New text** or drop a file into the window.
 
 **Requirements:** Windows 10 or 11 (64-bit). A microphone is needed only for voice following. Internet is needed only to download a voice model and to check for updates.

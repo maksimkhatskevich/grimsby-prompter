@@ -23,6 +23,7 @@
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest"><img src="https://img.shields.io/github/v/release/maksimkhatskevich/grimsby-prompter?label=vers%C3%A3o&color=D9822B" alt="Version"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-D9822B" alt="Windows 10/11">
   <img src="https://img.shields.io/badge/gr%C3%A1tis-sem%20an%C3%BAncios-111314" alt="Free">
+  <a href="https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19"><img src="https://img.shields.io/badge/VirusTotal-0%2F67-2E7D32" alt="VirusTotal 0/67"></a>
   <a href="https://github.com/maksimkhatskevich/grimsby-prompter/releases"><img src="https://img.shields.io/github/downloads/maksimkhatskevich/grimsby-prompter/total?label=downloads&color=858A8D" alt="Downloads"></a>
 </p>
 
@@ -88,6 +89,7 @@ O tema claro fica a um clique — o botão do sol, no alto.
 
 1. Abra a página da **[versão mais recente](https://github.com/maksimkhatskevich/grimsby-prompter/releases/latest)** e baixe o instalador `.exe`.
 2. Execute-o. O Windows pode mostrar uma janela azul «O Windows protegeu o computador» — é um aviso normal para programas sem certificado de assinatura pago. Clique em **Mais informações → Executar assim mesmo**.
+   O instalador foi verificado no VirusTotal: [nenhum dos 67 antivírus encontrou nada](https://www.virustotal.com/gui/file/21cec8155312cbb75dcf7c4b22757e0e21429176e19869b34bfa85b5cb0c2b19) (versão 1.0.0).
 3. Clique em **Novo texto** ou arraste um arquivo para a janela.
 
 **Requisitos:** Windows 10 ou 11 (64 bits). O microfone só é necessário para acompanhar a voz. A internet só é necessária para baixar um modelo de voz e verificar atualizações.
